@@ -70,7 +70,8 @@ Random Forest:
       Effect: -3.25
       Policy Implication: Increases in this area signal governance risks
 
-![alt text](image-1.png)
+<img width="1287" height="495" alt="image" src="https://github.com/user-attachments/assets/5577084b-8cab-4cf8-8eab-7925166832ef" />
+
 
 ### Outputs
 * **Policy Executive Summary:** Targeted for senior officials.
